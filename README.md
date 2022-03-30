@@ -1,16 +1,6 @@
-# pokedexapp
+# Flutter-Pokedex-App-Riverpod
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran görüntüsü 2022-03-30 160534](https://user-images.githubusercontent.com/80161667/160841261-c001eb67-2340-4655-b252-dacbba31f235.png)
+<br>
+![Ekran görüntüsü 2022-03-30 160520](https://user-images.githubusercontent.com/80161667/160841292-0b96b4c3-b5de-4c0d-b7b6-be0117f47384.png)
